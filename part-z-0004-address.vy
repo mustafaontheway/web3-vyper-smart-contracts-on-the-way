@@ -5,8 +5,6 @@ random_addr: public(address)
 
 zero_addr: public(address)
 
-# Must be compiled with --enable-decimals
-
 @deploy
 def __init__():
 
